@@ -1,0 +1,9 @@
+.date_container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 0.8rem;
+  position: fixed;
+  right: 3rem;
+  top: 3rem;
+}
